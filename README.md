@@ -14,6 +14,21 @@
 * Python
 * Java
 
+* ## 🧠 Engenharia de Requisitos
+
+Experiência na aplicação de práticas de Engenharia de Requisitos ao longo do desenvolvimento de software, incluindo:
+
+- Levantamento e análise de requisitos funcionais e não funcionais  
+- Modelação de sistemas utilizando UML (Use Case, Class, Sequence, Activity)  
+- Definição e documentação de requisitos de forma estruturada  
+- Identificação de stakeholders e análise de necessidades  
+- Validação e verificação de requisitos  
+
+📌 Familiaridade com:
+- Diagramas UML  
+- Modelação de processos (BPMN)  
+- Escrita de casos de uso  
+
 ## 📌 Projetos em destaque
 
 * **GlicoSleep**
