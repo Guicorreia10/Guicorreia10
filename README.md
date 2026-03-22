@@ -11,6 +11,7 @@
 ## 🛠️ Tecnologias
 
 ![React Native](https://img.shields.io/badge/React%20Native-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-grey)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![Node.js](https://img.shields.io/badge/Node.js-green)
 ![Python](https://img.shields.io/badge/Python-blue)
