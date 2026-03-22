@@ -47,11 +47,20 @@ Experiência na aplicação de práticas de Engenharia de Requisitos no desenvol
 
 ## 📜 Certificações
 
-🏅 **Scrum Foundation Professional Certification**  
-📊 **Foundations of Project Management (Google)**  
-🔐 **Cybersecurity Awareness Certification**  
-🌍 **EF SET English Certificate – C1**  
-🤖 **IA Generativa (MIT Professional Education)**
+🧠 **Engenharia de Requisitos & Análise**
+- Requirements Elicitation: Artifact and Stakeholder Analysis  
+- Business Analysis: Process Modeling & Requirements Gathering  
+
+📊 **Gestão e Metodologias**
+- Foundations of Project Management (Google)  
+- Scrum Foundation Professional Certification  
+
+⚙️ **Ferramentas**
+- Agile with Atlassian Jira  
+
+🔐 **Outras**
+- Cybersecurity Awareness Certification  
+- EF SET English Certificate – C1  
 
 ---
 
