@@ -45,6 +45,16 @@ Experiência na aplicação de práticas de Engenharia de Requisitos no desenvol
 
 ---
 
+## 📜 Certificações
+
+🏅 **Scrum Foundation Professional Certification**  
+📊 **Foundations of Project Management (Google)**  
+🔐 **Cybersecurity Awareness Certification**  
+🌍 **EF SET English Certificate – C1**  
+🤖 **IA Generativa (MIT Professional Education)**
+
+---
+
 ## 📌 Projetos em destaque
 
 ### 🩺 GlicoSleep
