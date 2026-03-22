@@ -14,7 +14,7 @@
 ![Python](https://img.shields.io/badge/Python-blue)
 ![Java](https://img.shields.io/badge/Java-red)
 
-![Typing](https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;React+Native;Engineering+Student)
+![Typing](https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Requirements+Engineering;Engineering+Student)
 ## 🧠 Engenharia de Requisitos
 
 Experiência na aplicação de práticas de Engenharia de Requisitos ao longo do desenvolvimento de software, incluindo:
