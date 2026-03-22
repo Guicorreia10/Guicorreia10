@@ -14,7 +14,8 @@
 * Python
 * Java
 
-* ## 🧠 Engenharia de Requisitos
+
+## 🧠 Engenharia de Requisitos
 
 Experiência na aplicação de práticas de Engenharia de Requisitos ao longo do desenvolvimento de software, incluindo:
 
