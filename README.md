@@ -14,7 +14,7 @@
 ![Python](https://img.shields.io/badge/Python-blue)
 ![Java](https://img.shields.io/badge/Java-red)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=teuusername&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teuusername)
 
 ## 🧠 Engenharia de Requisitos
 
