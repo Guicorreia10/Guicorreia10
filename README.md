@@ -14,8 +14,7 @@
 ![Python](https://img.shields.io/badge/Python-blue)
 ![Java](https://img.shields.io/badge/Java-red)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teuusername)
-
+![Typing](https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;React+Native;Engineering+Student)
 ## 🧠 Engenharia de Requisitos
 
 Experiência na aplicação de práticas de Engenharia de Requisitos ao longo do desenvolvimento de software, incluindo:
