@@ -3,8 +3,10 @@
 💻 Estudante de Mestrado em Engenharia Informática (Desenvolvimento de Software e Sistemas Interativos)
 🎓 Licenciado em Informática Web pela Universidade da Beira Interior
 
-🚀 Interesse em desenvolvimento de software, com foco em aplicações mobile e análise de requisitos
+🚀 Interesse no desenvolvimento de software, com foco em aplicações mobile e engenharia de requisitos
 📍 Portugal
+
+---
 
 ## 🛠️ Tecnologias
 
@@ -14,26 +16,44 @@
 ![Python](https://img.shields.io/badge/Python-blue)
 ![Java](https://img.shields.io/badge/Java-red)
 
+---
+
 ![Typing](https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Requirements+Engineering;Engineering+Student)
+
+---
+
 ## 🧠 Engenharia de Requisitos
 
-Experiência na aplicação de práticas de Engenharia de Requisitos ao longo do desenvolvimento de software, incluindo:
+Experiência na aplicação de práticas de Engenharia de Requisitos no desenvolvimento de software, com foco em:
 
-- Levantamento e análise de requisitos funcionais e não funcionais  
-- Modelação de sistemas utilizando UML (Use Case, Class, Sequence, Activity)  
-- Definição e documentação de requisitos de forma estruturada  
-- Identificação de stakeholders e análise de necessidades  
-- Validação e verificação de requisitos  
+🔍 **Análise**
 
-📌 Familiaridade com:
-- Diagramas UML  
-- Modelação de processos (BPMN)  
-- Escrita de casos de uso  
+* Levantamento e validação de requisitos funcionais e não funcionais
+* Identificação de stakeholders e análise de necessidades
+
+📐 **Modelação**
+
+* UML (Use Case, Class, Sequence, Activity)
+* BPMN
+
+📝 **Documentação**
+
+* Especificação de requisitos
+* Escrita de casos de uso
+
+💡 Abordagem orientada à clareza, consistência e rastreabilidade ao longo do ciclo de desenvolvimento.
+
+---
 
 ## 📌 Projetos em destaque
 
-* **GlicoSleep**
-  App mobile para monitorização e gestão de níveis de diabetes
+### 🩺 GlicoSleep
+
+Aplicação mobile para monitorização e gestão de níveis de diabetes
+
+🏆 Projeto desenvolvido com base em práticas de Engenharia de Requisitos (classificação: **18 valores**)
+
+---
 
 ## 📫 Contacto
 
