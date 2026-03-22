@@ -8,11 +8,11 @@
 
 ## 🛠️ Tecnologias
 
-* React Native
-* JavaScript / TypeScript
-* Node.js
-* Python
-* Java
+![React Native](https://img.shields.io/badge/React%20Native-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Node.js](https://img.shields.io/badge/Node.js-green)
+![Python](https://img.shields.io/badge/Python-blue)
+![Java](https://img.shields.io/badge/Java-red)
 
 
 ## 🧠 Engenharia de Requisitos
